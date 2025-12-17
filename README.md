@@ -43,11 +43,8 @@ Stakeholders: Aviation safety authorities, aircraft operators, insurance compani
 Focused on cleaning columns that were relevant in my analysis.
 
 - Cleaned missing injury values which were treated as zero values.
-
 - Removed dataframes which were irrelevant to my analysis like Longitudes,Latitutes.
-
 - in Categorical data I Input **unknown** to NaN values.
-
 - Created a new metric: **Total Injuries**
 
 
@@ -72,7 +69,7 @@ Filtered top 10 Makes to use in my analysis
 
 Aircraft in the lower-left quadrant represent the lowest risk like Grumman, Hughes, Bell  
 
----
+
 ### Trend analysis over time
 
 ![trend_analysis_over_time](images/image1.png)
@@ -80,7 +77,7 @@ Aircraft in the lower-left quadrant represent the lowest risk like Grumman, Hugh
 Injuries reduces by number of years
 
 
-## Key Findings
+## Conclusion
 
 - Injury types (fatal, serious, minor) are strongly correlated, validating the use of total injuries as a risk metric. 
 
