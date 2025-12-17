@@ -58,11 +58,11 @@ Filtered top 10 Makes to use in my analysis
 
 - Aircraft with low average injuries and sufficient accident history were classified as low-risk
 
-![average_injuries_per_accident](images/image3.png)
+![Average_injuries_per_accident](images/image3.png)
 
 ### Lower Risk Aircraft by Make and model
 
-(images/Screenshot 2025-12-17 004037.png)
+![Low_risk_aircraft](images/image5.png)
 
 ### Aircraft Risk Matrix
 ![Aircraft_Risk_Matrix](images/image4.png)
@@ -72,7 +72,7 @@ Aircraft in the lower-left quadrant represent the lowest risk like Grumman, Hugh
 
 ### Trend analysis over time
 
-![trend_analysis_over_time](images/image1.png)
+![Trend_analysis_over_time](images/image1.png)
 
 Injuries reduces by number of years
 
